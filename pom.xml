@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ro.fasttrackit.curs7</groupId>
-    <artifactId>curs7-code</artifactId>
+    <artifactId>full-stack-java-course7-and-homeworkc7</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>curs7-code</name>
     <description>Code for course 7</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>15</java.version>
     </properties>
     <dependencies>
         <dependency>
