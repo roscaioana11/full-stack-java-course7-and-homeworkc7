@@ -1,8 +1,7 @@
-package ro.fasttrackit.curs7.service;
+package ro.fasttrackit.restaurantapphomeworkc7.model;
 
 import lombok.Builder;
 import lombok.Value;
-import ro.fasttrackit.curs7.service.PageInfo;
 
 import java.util.List;
 
@@ -12,4 +11,3 @@ public class CollectionResponse<T> {
     List<T> content;
     PageInfo pageInfo;
 }
-
