@@ -21,7 +21,7 @@ public class Restaurant {
     private String name;
     private int stars;
     private String city;
-    private LocalDate since; //since is the date the restaurant opened. You should not be able to change it.
+    private LocalDate since;
 
     public Restaurant(String name, int stars, String city, LocalDate since) {
         this.name = name;
